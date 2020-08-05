@@ -5,7 +5,7 @@
 <br>Fui chefe de RH durante 3 anos. Aos 30 decidi me reinventar.
 <br>Atualmente trabalho na area Administrativa, mas, a cada dia me vejo mais distante desta area e mais próximo do que desejo... que é codar profissionalmente.
 <br>Sou formado em Teologia, Gosto muito de ler.
-<br>No presente faço Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi, e estudo intensivamente com cursos livres e leituras Html5, Javascript, Css3 e esporadicamente C#.
+<br>No presente faço Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi, e estudo cursos livres e leituras Html5, Javascript, Css3 e esporadicamente C#.
  
  <br/> :email: &nbsp; Entre em contato comigo: https://www.linkedin.com/in/felipeschoen/
 | e-mail: feschoen7@hotmail.com
